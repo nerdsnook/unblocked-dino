@@ -3,8 +3,7 @@
 <center>
    <h1><b> - Instructions - </b></h1>
    <br>
-   <h3>1.  Download dino.zip</h3>
-          <a href="https://github.com/nerdsnook/unblocked-dino/raw/master/dino.zip" >here</a>
+   <h3>1.  Download dino.zip<a href="https://github.com/nerdsnook/unblocked-dino/raw/master/dino.zip" > here</a></h3>
          <br>
           <h3>2.  Unzip dino.zip</h3> 
           <br>
