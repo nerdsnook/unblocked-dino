@@ -1,5 +1,6 @@
 # unblocked-dino
-For those who are unfortunate that their school to blocked the dino game.
+<center>
+   <h1><b> - Instructions - </b></h1>
    <br>
          1.  Download dino.zip
          <br>
@@ -26,5 +27,5 @@ For those who are unfortunate that their school to blocked the dino game.
           <br>
           <img src="https://raw.githubusercontent.com/nerdsnook/unblocked-dino/master/help-img/help3.PNG" alt="enjoy/help3.png" />
           </html>
-          
+          </center>
           
