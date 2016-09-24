@@ -7,7 +7,7 @@
          <br>
           <h3>2.  Unzip dino.zip</h3> 
           <br>
-          <h3> 3.  Go To chrome://extensions/ </h3>
+             <h3>3.  Go To <a href=" chrome://extensions/" >  chrome://extensions/</a></h3>
           <br>
          <h3> 4.  enable Developer mode</h3>
           <br>
