@@ -26,6 +26,9 @@
           <html>
           <br>
           <img src="https://raw.githubusercontent.com/nerdsnook/unblocked-dino/master/help-img/help3.PNG" alt="enjoy/help3.png" />
+          <br>
+          <img src="https://raw.githubusercontent.com/nerdsnook/unblocked-dino/master/help-img/play.PNG" alt="play/play.png" />
+          
           </html>
           </center>
           
